@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MikeJenkins-iz
 - 👀 I’m interested in continuous improvement.
 - 🌱 I’m currently learning everything I can about iSeatz!
-- 💞️ I’m looking to collaborate on literally anything!  But first, iSeatz Slack reactions
-- 📫 How to reach me
+- 💞️ I’m looking to collaborate on literally anything!  But first, iSeatz Slack reactions.
+- 📫 How to reach me:
    - First, `@Jenkins` on Slack is best.
    - Second, probably email at Michael.Jenkins@iseatz.com.
    - You could always try a carrier pidgeon.
