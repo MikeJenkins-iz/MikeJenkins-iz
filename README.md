@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikeJenkins-iz
+- 👋 Hi, I’m Mike Jenkins (@MikeJenkins-iz)!
 - 👀 I’m interested in continuous improvement.
 - 🌱 I’m currently learning everything I can about iSeatz!
 - 💞️ I’m looking to collaborate on literally anything!  But first, iSeatz Slack reactions.
